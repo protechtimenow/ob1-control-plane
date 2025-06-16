@@ -3,7 +3,7 @@
 
 # GitHub integration
 PyGithub==2.2.0
-requests==2.31.0
+requests==2.32.4
 
 # Data processing and analysis
 pandas==2.0.3
@@ -19,7 +19,7 @@ websockets==11.0.3
 
 # Web framework for dashboard
 flask==2.3.2
-flask-cors==4.0.0
+flask-cors==6.0.0
 
 # JSON and data handling
 jsonschema==4.19.0
